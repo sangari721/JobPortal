@@ -1,2 +1,2 @@
-# JobPortal
-Simple jobportal Project
+# tinkus-batter
+Simple tinkus-batter Project
